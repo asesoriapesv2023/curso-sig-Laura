@@ -9,3 +9,4 @@ Los scripts se ejecutan con Python desde PowerShell. Por ejemplo, python scripts
 ## De dónde salen los datos
 
 Paquete de Boyacá descargado con `scripts/descargar_boyaca.py` (IDE Boyacá y DANE).
+Este repositorio es mi práctica de Git y GitHub para la nivelación.
